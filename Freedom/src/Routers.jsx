@@ -11,7 +11,7 @@ const Router = () => {
     <BrowserRouter>
     <Header/>
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/home" element={<Home />} />
       <Route path="/bhagat" element={<Bhagat/>}/>
       <Route path="/lakshmi" element={<Lakshmi/>}/>
     
