@@ -5,7 +5,7 @@ import './Header.css'
 const Header = () => {
   return (
     <div className='nav'>
-        <Link to="/">Home</Link>
+        <Link to="/home">Home</Link>
         <Link><input type="text" placeholder='search' /></Link>
     </div>
   )
