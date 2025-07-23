@@ -3,13 +3,13 @@ const fighters = [
     id: 1,
     name: "Bhagat Singh",
     image: "https://i.pinimg.com/originals/e9/b1/d2/e9b1d22079711d3db1019e0f305a01c1.jpg",
-    route:'/bhagat-singh'
+    route:'/bhagat'
   },
   {
     id: 2,
     name: "Rani Lakshmibai",
     image: "https://cdn.britannica.com/31/155931-004-7885201A/Lakshmi-Bai.jpg",
-    route:'/lakshmi-bai'
+    route:'/lakshmi'
   },
   {
     id: 3,
