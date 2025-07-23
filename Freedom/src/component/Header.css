@@ -1,0 +1,13 @@
+.nav a{
+text-decoration: none;
+ background: linear-gradient(to right, #ff6b6b, #f8e71c, #32ff7e, #18dcff, #7d5fff);
+  background-clip: text;
+  
+  font-weight: bold;
+ font-size: 20px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+
+}
