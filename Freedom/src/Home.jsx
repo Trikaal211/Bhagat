@@ -14,7 +14,7 @@ const Home = () => {
      
     >
      
-      {fighters.map((fighter,idx) => (
+      {fighters.map((fighter) => (
        
         <div 
         onClick={()=>navy(fighter.route)}
